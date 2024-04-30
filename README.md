@@ -1,11 +1,10 @@
+Zomato Landing Page Clone
 
-##Zomato Landing Page Clone
-
-#Overview
+##Overview <br>
 This repository contains the code for a landing page clone inspired by Zomato, a popular food delivery and restaurant discovery platform. The project is a static web application created using HTML and CSS, providing a visually appealing representation of the Zomato landing page.
 
 
-#Features
+##Features
 **Responsive Design:** The landing page is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
 
 **Navigation Bar:** A navigation bar provides links for essential actions such as "Get The App," "Investor Relations," "Add Restaurant," "Log In," and "Sign Up." A user icon is also included.
