@@ -1,8 +1,12 @@
+@font-face {
+    font-family: zo;
+    src: url("https://b.zmtcdn.com/web_assets/c750382e5207a1a41cdcb496ef2326d51597997149.woff2");
+}
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+    font-family: zo,"Poppins", sans-serif;
 }
 
 .hero-section {
