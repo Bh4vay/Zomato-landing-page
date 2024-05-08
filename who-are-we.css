@@ -423,19 +423,22 @@ h1,h2,h3,h4{
         margin: 0 auto;
     }
     .container2{
-        height: 20vh;
+        height: fit-content;
         padding: 1rem;
     }
     .container3 {
         padding: 1rem;
         display: flex;
         flex-direction: column;
-        height: 100vh;
+        height: fit-content;
     }
     .container3 .content{
         width: 100%;
         height: 50%;
         margin-bottom: 1rem;
+    }
+    .container3 .snap1{
+        display: none;
     }
     .content p{
         font-size: 0.9rem;
