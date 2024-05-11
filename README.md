@@ -12,5 +12,7 @@ This repository contains the code for a landing page clone inspired by Zomato, a
 - **Get App Section:** Encourages users to download the Zomato app with options for email or phone, and provides links to download from the Play Store and Apple Store.
 - **Footer:** Includes sections with information about Zomato, Zomaverse, options for restaurants and enterprises, and social links. It also contains links for privacy, security, terms, and a disclaimer.
 
-## Also has a WHO-WE-ARE page - Fully responsive 
-## Includes INVESTOR RELATIONS page - Not responsive yet
+## Multiple Pages
+- Also has a WHO-WE-ARE page - Fully responsive 
+- Includes INVESTOR RELATIONS page - Not responsive yet
+- Includes BLOG page - Fully responsive 
